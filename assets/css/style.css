@@ -1,27 +1,28 @@
-.jumbotron{
-	margin-top: 15px;
-	height: 550px;
-	overflow: auto;
+.jumbotron {
+  margin-top: 15px;
+  height: 550px;
+  overflow: auto;
 }
-h1{
-	margin-top: 0;
+h1 {
+  margin-top: 0;
 }
-.start_button{
-	position: relative;
-	top: 250px;
+.start_button {
+  position: relative;
+  top: 250px;
 }
-.centered{
-	text-align: center;
+.centered {
+  text-align: center;
 }
-body{
-	background-image: url("../images/the-feast-shower-oranges.jpg")
+body {
+  background-image: url("../images/the-feast-shower-oranges.jpg");
 }
-h3{
-	font-size: 40px;
+h3 {
+  font-size: 40px;
 }
-.dynamic.container{
-	margin-top: 30px;
+.dynamic.container {
+  margin-top: 30px;
 }
-.center{
-	margin: auto;
+.center {
+  margin: auto;
+  display: flex;
 }
