@@ -3,7 +3,7 @@ var question1={
 	answer0: "vav apple",
 	answer1: "var 2apples",
 	answer2: "var _3apples",
-	answer3: "var Apple",
+	answer3: "vat Apple",
 	correctAnswer: "var _3apples",
 	tag:"javascript%20variable",
 };
